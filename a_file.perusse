@@ -1,4 +1,30 @@
-# https://www.youtube.com/watch?v=XpG2nemCuGg&list=PLuhoOhQ35p0-Xy9PRvl6ita5okdXh0vd8&index=4
+titre = "Émission de variété: 'Calambours stupides'"
+id = "FP1FRA"
+personnages = ["Annonceur", "Animateur", "Thierry", "Béatrice Dalle", "Jean Pelapi", "Charles Naze d'Amour"]
+
+[["publications"]]
+type = "youtube"
+id = "XpG2nemCuGg"
+timecode_debut = "04:02"
+timecode_fin = "06:44"
+
+[calambours]
+cam = ["qu'amer", "aman"]
+per = ["persiste"]
+dal = ["Dalle"]
+sui = ["Suisse"]
+mon = ["montre chère"]
+enf = ["entendu"]
+sau = ["sommons"]
+fra = ["Francs", "kenstein"]
+dem = ["Deneuve"]
+chanaze = ["Charles Aznavour"]
+chala = ["Charles Aznavour"]
+res = ["resigne"]
+"évi" = ["une vie d'amant"]
+chaatt = ["Charlattant"]
+Tri = ["très belles jambes"]
+---
 ANNONCEUR
 Voici notre emission de variété "Calambours stupides", accueillons
 notre animateur!
@@ -25,7 +51,7 @@ Oui
 (rit)
 
 ANIMATEUR
-Il est plus caméraman.
+Il est plus [caméraman].
 
 Roulement de caisse clair et rire du public
 
@@ -39,7 +65,7 @@ THIERRY
 Il veut pas s'en aller.
 
 ANIMATEUR
-Ouais, il perchiste à vouloir rester
+Ouais, il [perchiste] à vouloir rester
 
 Roulement de caisse clair et rire du public
 
@@ -84,7 +110,7 @@ BÉATRICE DALLE
 Mais si dans tous les films, on ne voit que Béatrice Dalle
 
 ANIMATEUR
-C'est bien ce que je vous dis, on ne voit que dalle
+C'est bien ce que je vous dis, on ne voit que [dalle]
 
 Roulement de caisse clair et rire du public
 
@@ -113,7 +139,7 @@ JEAN PELAPI
 Moui
 
 ANIMATEUR
-Et vous etes Suisse
+Et vous êtes Suisse
 
 JEAN PELAPI
 Moui
@@ -125,7 +151,7 @@ JEAN PELAPI
 Quoi vous n'avez jamais connu de Suisse heureux?
 
 ANIMATEUR
-Non, mais 'suis heureux de vous connaitre
+Non, mais ['suis] heureux de vous connaitre
 
 Roulement de caisse clair et rire du public
 
@@ -136,10 +162,10 @@ ANIMATEUR
 Et évidement, vous avez une belle montre.
 
 JEAN PELAPI
-Oui, c'est montre cher, Suisse
+Oui, c'est montre chère, Suisse
 
 ANIMATEUR
-D'accord, alors, mon très cher Suisse-
+D'accord, alors, [mon très cher] Suisse-
 
 Roulement de caisse clair et rire du public
 
@@ -150,7 +176,7 @@ JEAN PELAPI
 Enfin je me débrouille bien en fondue
 
 ANIMATEUR
-Ouais, bien en fondue!
+Ouais, bien [en fondue]!
 
 Roulement de caisse clair et rire du public
 
@@ -169,7 +195,7 @@ ANIMATEUR
 Et si ça se passe dans une cuisine?
 
 JEAN PELAPI
-Nous les sommons fumée
+Nous les [saumons] fumée
 
 Roulement de caisse clair et rire du public
 
@@ -184,7 +210,7 @@ ANIMATEUR
 Et si il est aggréssif?
 
 JEAN PELAPI
-Ça fait 5000 Frankenstein
+Ça fait 5000 [Frankenstein]
 
 Roulement de caisse clair et rire du public
 
@@ -202,7 +228,7 @@ ANIMATEUR
 Comme qui par example?
 
 JEAN PELAPI
-Il y a Catherine Demeuf
+Il y a Catherine _[De Meufs]_
 
 Roulement de caisse clair et rire du public
 
@@ -218,7 +244,7 @@ Et puis parfois--
 ANIMATEUR
 Ça va, ta gueule. Mon prochain invité est un artiste très serieux,
 mais dès qu'il est question d'amour il devient complètement naze:
-Charles Naze D'Amour.
+[Charles Naze D'Amour][chanaze].
 
 Applaudissements
 
@@ -229,7 +255,7 @@ CHARLES NAZE D'AMOUR
 Ah je te dis pas, je suis toujours pressé
 
 ANIMATEUR
-Mesdames, Messieur: Charles à la bourre!
+Mesdames, Messieur: [Charles à la bourre][chala]!
 
 Roulement de caisse clair et rire du public
 
@@ -241,19 +267,19 @@ Alors vous chantez encore comme un rossignole, et vous venez encore de
 signer un contrat.
 
 CHARLES NAZE D'AMOUR
-Et, je ressignole le contrat
+Et, je [ressignole] le contrat
 
 ANIMATEUR
 Pardon?
 
 CHARLES NAZE D'AMOUR
-Je resigne le contrat. "Rossignole"
+Je resigne le contrat. "[Rossignole][res]"
 
 ANIMATEUR
 Hein?
 
 CHARLES NAZE D'AMOUR
-Calambour, "Rossignole le contrat"
+Calambour, "[Rossignole][res] le contrat"
 
 ANIMATEUR
 Ah... Eh bah
@@ -270,7 +296,7 @@ CHARLES NAZE D'AMOUR
 Oui il n'est pas évident d'avoir un vie d'artiste et une vie d'amant
 
 ANIMATEUR
-évidement
+[évidement]
 
 Roulement de caisse clair et rire du public, au ralentis
 
@@ -278,8 +304,8 @@ ANIMATEUR
 Vous voyez, c'est comme ça qu'on fait un blague
 
 CHARLES NAZE D'AMOUR
-Ouais, mais moi par contre je sais changer, écoutez bien
-(chante)
+Ouais, mais moi par contre je sais chanter, écoutez bien
+(en chantant)
 Et pourtant, pourtant!
 
 ANIMATEUR
@@ -301,7 +327,7 @@ CHARLES NAZE D'AMOUR
 Oui, j'attend pour etre medecin
 
 ANIMATEUR
-Alors, Charles attends, pour etre medecine
+Alors, [Charles attends][chaatt], pour etre medecin
 
 Roulement de caisse clair et rire du public, au ralentis
 
@@ -333,10 +359,10 @@ ANIMATEUR
 Non c'est que
 
 THIERRY
-Et elle s'appelle trèsbellejambe
+Et elle s'appelle _très-belle-jambe_
 
 ANIMATEUR
-Tribal Jam, c'est pas une femme, c'est un groupe
+[Tribal Jam], c'est pas une femme, c'est un groupe
 
 THIERRY
 Oh merde
