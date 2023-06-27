@@ -10,6 +10,7 @@ timecode_debut = "00:00"
 timecode_fin = "2:14"
 
 [calambours]
+bar = Barbe à Papa
 ---
 VOIX OFF
 
