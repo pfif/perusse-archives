@@ -43,7 +43,7 @@ The lines of text that make up a dialog can be of two types:
 
 #### Parenthetical
 
-They start and end with parenthesis.
+They start and end with parenthesis. They can contain puns
 
 #### Line
 
