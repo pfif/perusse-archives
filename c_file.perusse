@@ -1,0 +1,319 @@
+titre = "Dingo"
+id = "FP3FRA"
+personnages = []
+"série" = ""
+
+[["publications"]]
+type = "youtube"
+id = "p1HMmhlf8ys"
+timecode_debut = "00:00"
+timecode_fin = "2:14"
+
+[calambours]
+---
+VOIX OFF
+
+FRANÇOIS PERUSSE
+Quand on travaille dans l'espionnage, on fait toujours face à des situations différentes les unes des autres.
+
+INT - CAMIONETTE
+
+ESPION IN
+Bon, ça va être à toi de jouer mon pote.
+
+ESPION OUT
+Bon alors j'y vais
+
+ESPION IN
+Attend on récapitule, alors tu te souviens?
+
+ESPION OUT
+J'entre dans le parc de Disneyland, j'assome une mascotte et je prends son costume
+
+ESPION IN
+Et je te donnerai le reste des instructions dans ton écouteur sur le champs
+
+DES VISITEURS
+(urine à l'exterieur de la camionette)
+
+ESPION OUT
+Tu te fera pas repèrer dans cette camionette?
+
+ESPION IN
+T'inquietes on l'a déguisé en urinoir publique
+
+ESPION OUT
+Et tu vas bien me voir là?
+
+ESPION IN
+On t'a bourré de caméras, de microphones et de senseurs
+
+DES VISITEURS
+(toujours entrain d'uriner)
+
+ESPION OUT
+T'aurai plutôt du te déguiser en vendeur de glace
+
+ESPION IN
+Aller vas-y!
+
+ESPION OUT
+(marche, trainant son équipement derière lui)
+
+ESPION IN
+Euh... t'es à l'aise avec l'équipement?
+
+ESPION OUT
+Impec' vieux, c'est comme si j'étais tout nu
+
+ESPION IN
+Aller bonne chance!
+
+ESPION OUT
+À plus!
+(sort du la camionette)
+
+ESPION OUT
+(oreillette)
+Alors tu m'entends?
+
+ESPION IN
+Cinq sur cinq
+
+ESPION OUT
+(oreillette)
+Y'a un mec en costume de Dingo à dix mètre avec les enfants
+
+ESPION IN
+Essaie de l'attirer vers toi
+
+ESPION OUT
+(oreillette)
+Eh Dingo!
+
+DINGO (oreillette)
+(rire de Dingo)
+
+ESPION OUT (oreillette)
+Viens voir par ici!
+
+DINGO (oreillette)
+(court vers Espion B)
+
+ESPION OUT (oreillette)
+Il arrive
+(cogne DINGO)
+
+DINGO (oreillette, déformé)
+(rire de dingo)
+
+ESPION OUT (oreillette)
+Putain Dingo c'est une machine
+
+ESPION IN
+Dépèche toi d'enfiler le costume
+
+DINGO (oreillette, déformé)
+(rire de dingo)
+Bonjour les amis!
+
+ESPION OUT (oreillette)
+C'est pas facile hein!
+
+DINGO (oreillette, déformé)
+Approche petit
+
+ESPION OUT (oreillette)
+Ça y est presque!
+
+DINGO (oreillette, déformé)
+Ce sera notre petit secret
+
+ESPION IN
+Débarasse toi de la boite vocale
+
+ESPION OUT (oreillette)
+Tout de suite
+(jette la boite vocale)
+
+DINGO (oreillette, déformé, s'éloignant)
+(rire de dingo)
+(boite vocale attéris avec fracas)
+
+ESPION OUT (oreillette)
+Voilà
+
+ESPION IN
+Tu te diriges vers le premier manège
+
+ESPION OUT (oreillette)
+J'enfile la tête
+
+ESPION IN
+(acquièce)
+
+ESPION OUT (oreillette)
+Ça y est je suis près... Merde les momes!
+
+ESPION IN
+Tu dois jouer le jeu pour pas être repèrer
+
+ESPION OUT (oreillette, imites Dingo)
+(rire de dingo)
+les petits enfants
+(se fait taper par les enfants)
+
+ESPION IN
+Et merde...
+
+ESPION OUT (oreillette, imites Dingo)
+On frappe pas sur la tête de Dingo!
+(se fait taper par les enfants)
+
+ESPION OUT (oreillette)
+Eh putain!
+
+ESPION IN
+T'as pas oublié les armes j'éspère
+
+ESPION OUT (oreillette)
+Non j'ai deux grenades et un trois-cent cinquente sept
+
+ESPION IN
+Parle en dingo!
+
+ESPION OUT (oreillette, imites Dingo)
+J'ai deux grenades et un trois-cent-cinquente-sept, twi twi les copains!
+
+EPSION IN
+Fais gaffes les gardiens ils ont des mitraillettes
+
+ESPION OUT (oreillette, imites Dingo)
+Si je me fais buter tu t'occupes d'appeler ma femme!
+(rire de dingo)
+twi twi les panpan!
+
+ESPION IN
+Tu te diriges tout de suite vers le manège numéro un
+
+ESPION OUT (oreillette, imites Dingo)
+Au revoir les enfants!
+(rire de dingo)
+
+ESPION OUT (oreillette)
+Bon alors..
+
+MÈRE
+Juste une petite photo s'il vous plait!
+
+ESPION OUT (oreillette)
+Et merde...
+
+ESPION OUT (oreillette, imites Dingo)
+(rire de dingo)
+
+MÈRE
+Merci!
+
+ESPION OUT (oreillette)
+Bon je cours!
+
+ESPION IN
+Oui magne toi!
+
+ESPION OUT (oreillette)
+(pète)
+
+ESPION IN
+Et putain t'as pas finis de le renifler celui là
+
+ESPION OUT (oreillette)
+Tu parles c'est mon jour de chance
+
+ESPION IN
+Tu vois le manège?
+
+ESPION OUT (oreillette)
+Ça y est j'y suis
+
+ESPION IN
+Tu restes là, y'a un type qui tourne dedans et en passant il va te donner la combinaison discrètement
+
+TYPE DU MANÈGE (oreilette, rapidement, en passant)
+...trois, quatres, cinq, huit, neuf, se..
+
+ESPION OUT (oreillette)
+J'ai rien entendu
+
+ESPION IN
+Il va repasser
+
+TYPE DU MANÈGE (oreilette, rapidement, en passant)
+...deux trois quatres...
+
+ESPION OUT (oreillette)
+Vous auriez pas pu choisir un manège moins rapide?
+
+TYPE DU MANÈGE (oreilette, rapidement, en passant)
+...sept neuf neuf trois...
+
+ESPION IN
+Oh c'est pas vrai...
+
+ESPION OUT (oreillette)
+Attends, ça y est, ça ralentis
+
+ESPION IN
+Bon!
+
+TYPE DU MANÈGE (oreilette, voix ralentie, en passant)
+(dit des chiffres incompréhensible)
+
+ESPION OUT (oreillette)
+C'est pas vraiment mieux
+
+ESPION IN
+Ouais j'ai entendu, tires toi de là et vas vers les bureaux
+
+ESPION OUT (oreillette)
+Et putain de metier...
+
+VENDEUR DE BARBE À PAPA (oreillette)
+Eh dingo!
+
+ESPION OUT (oreillette, imites Dingo)
+(rire de Dingo)
+
+VENDEUR DE BARBE À PAPA (oreillette)
+Tu veux une mousse sucrée?
+
+ESPION OUT (oreillette)
+Une quoi?
+
+VENDEUR DE BARBE À PAPA (oreillette)
+Je vends des mousses sucrées, t'en veux une ou pas?
+
+ESPION OUT (oreillette)
+On appèle pas ça comme ça
+
+VENDEUR DE BARBE À PAPA (oreillette)
+Quoi, une mousse sucrée?
+
+ESPION IN
+Laisse tomber, merde!
+
+ESPION OUT (oreillette)
+Il existe un terme pour ça, les mousses sucrées, petit con
+
+VENDEUR DE BARBE À PAPA (oreillette)
+À ouais? Et qu'est-ce que c'est? Gros clébard de merde
+
+ESPION OUT (oreillette)
+Tiens je vais te faire dire
+(frappe le vendeur de barbe à papa)
+
+VENDEUR DE BARBE À PAPA (oreillette, déformé)
+(cris de douleure qui ressemble à [barbe à papa])
+
+ESPION OUT (oreillette)
+Voilà, [Barbe à Papa]

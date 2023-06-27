@@ -4,11 +4,11 @@ use toml;
 
 #[derive(Debug, PartialEq, Default)]
 struct Capsule {
-    header: Header,
+    metadata: Metadata,
 }
 
 #[derive(Debug, PartialEq, Default, Deserialize)]
-struct Header {
+struct Metadata {
     titre: String,
     id: String,
     personnages: Vec<String>,
@@ -26,10 +26,10 @@ struct PublicationYoutube {
 
 // TODO Better error handling (stop using unwrap)
 fn tokenize_file(file: String) -> Capsule {
-    let header_end: usize = file.find("---").unwrap();
-    let header_raw: String = file[..header_end].to_string();
-    let header: Header = toml::from_str(&header_raw).unwrap();
-    let capsule: Capsule = Capsule { header };
+    let metadata_end: usize = file.find("---").unwrap();
+    let metadata_raw: String = file[..metadata_end].to_string();
+    let metadata: Metadata = toml::from_str(&metadata_raw).unwrap();
+    let capsule: Capsule = Capsule { metadata };
     return capsule;
 }
 
@@ -38,9 +38,10 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_header_tokenized() {
+    fn test_metadata_tokenized() {
         let file: String = String::from(
-            r#" titre = "Émission de variété: 'Calambours stupides'"
+            r#"---
+titre = "Émission de variété: 'Calambours stupides'"
 id = "FP1FRA"
 personnages = ["Annonceur", "Animateur"]
 
@@ -59,7 +60,7 @@ Tri = ["très belles jambes"]
 ---"#,
         );
         let expected_output: Capsule = Capsule {
-            header: Header {
+            metadata: Metadata {
                 titre: "Émission de variété: 'Calambours stupides'".to_string(),
                 id: "FP1FRA".to_string(),
                 personnages: Vec::from(["Annonceur".to_string(), "Animateur".to_string()]),

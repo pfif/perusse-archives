@@ -1,0 +1,124 @@
+- type: metadata
+  content:
+    titre: 'Émission de variété: ''Calambours stupides'''
+    id: FP1FRA
+    personnages:
+      - Annonceur
+      - Animateur
+      - Thierry
+      - Béatrice Dalle
+      - Jean Pelapi
+      - Charles Naze d'Amour
+    publications:
+      - type: youtube
+        id: XpG2nemCuGg
+        timecode_debut: 04:02
+        timecode_fin: 06:44
+    calambours:
+      cam:
+        - qu'amer
+        - aman
+      per:
+        - persiste
+      dal:
+        - Dalle
+      sui:
+        - Suisse
+      mon:
+        - montre chère
+      enf:
+        - entendu
+      sau:
+        - sommons
+      fra:
+        - Francs
+        - kenstein
+      dem:
+        - Deneuve
+      chanaze:
+        - Charles Aznavour
+      chala:
+        - Charles Aznavour
+      res:
+        - resigne
+      évi:
+        - une vie d'amant
+      chaatt:
+        - Charlattant
+      Tri:
+        - très belles jambes
+- type: dialog
+  character:
+    - ANNONCEUR
+  body:
+    - type: line
+      body:
+        - type: text
+          text: Voici notre emission de variété "Calambours stupides", accueillons notre animateur!
+- type: dialog
+  character:
+    - ANIMATEUR
+  body:
+    - type: parenthetical
+      text: rit
+    - type: line
+      body:
+        - type: text
+          text: Bonsoir à tous, bonsoir Thierry
+- type: dialog
+  character:
+    - THIERRY
+  body:
+    - type: line
+      body:
+        - type: text
+          text: Bonsoir
+- type: dialog
+  character:
+    - ANIMATEUR
+  body:
+    - type: line
+      body:
+        - type: text
+          text: Et bien figurez vous que juste avant l'émission, il y a un des caméramans qui s'est fait virer.
+- type: dialog
+  character:
+    - THIERRY
+  body:
+    - type: line
+      body:
+        - type: text
+          text: Oui, et il est un peu amer.
+- type: dialog
+  character:
+    - ANIMATEUR
+  body:
+    - type: line
+      body:
+        - type: text
+          text: Oh je dirais qu'il est plus qu'amer.
+- type: dialog
+  character:
+    - THIERRY
+  body:
+    - type: line
+      body:
+        - type: text
+          text: Oui
+    - type: parenthetical
+      text: rit
+- type: dialog
+  character:
+    - ANIMATEUR
+  body:
+    - type: line
+      body:
+        - type: text
+          text: Il est plus
+        - type: pun
+          text: caméraman
+        - type: text
+          text: .
+- type: action
+  text: Roulement de caisse clair et rire du public
+
